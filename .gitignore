@@ -1,0 +1,9 @@
+venv
+.env
+.idea
+htmlcov
+.coverage
+.DS_Store
+tmp
+__pycache__
+.~*

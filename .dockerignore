@@ -1,0 +1,7 @@
+venv
+.env
+.coverage
+htmlcov
+.vscode
+data.json
+test.py
